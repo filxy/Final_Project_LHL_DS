@@ -20,9 +20,16 @@ Original file is located at
 # from DeepFake-Classifier import *
 # 
 # 
-# 
+#
 # st.header("Deep Fake Detection")
-#     
+#     with st.container():
+#          st.subheader("Predict Uploading files")
+#
+# uploaded_files = st.file_uploader("Choose a image or video", accept_multiple_files=True)
+# for uploaded_file in uploaded_files:
+#     bytes_data = uploaded_file.read()
+#     st.write("filename:", uploaded_file.name)
+#     st.write(bytes_data)
 # menu_items={
 #         'image or video prediction' ,
 #         'Web-cam prediction',
