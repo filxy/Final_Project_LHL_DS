@@ -7,20 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1TV6B0vwpwSUc8nINhBNMBVVhDbxu8p_6
 """
 
-#!pip install ipykernel==4.10.1
-#!pip install streamlit -q
-#!pip install python==5.5.0
-
-#!pip install face-recognition
-#!pip install imageio-ffmpeg
-#!pip install imageio==2.16.0
-#!pip install pillow
-#!pip install ffmpeg-python
-#!pip install tensorflow==2.5.0rc1
-
-# Mounted google drive
-from google.colab import drive
-drive.mount('/content/drive/')
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile test-app.py
