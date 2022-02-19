@@ -1,4 +1,0 @@
-streamlit
-tensorflow==2.5.0rc1
-numpy
-opencv-python-headless
