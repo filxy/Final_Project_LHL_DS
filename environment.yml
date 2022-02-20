@@ -7,3 +7,4 @@ dependencies:
      - opencv
      - face_recognition
      - matplotlib
+     - tensorflow==2.5.0rc1
