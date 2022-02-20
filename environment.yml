@@ -6,3 +6,4 @@ dependencies:
      - scipy
      - opencv
      - face_recognition
+     - matplotlib
