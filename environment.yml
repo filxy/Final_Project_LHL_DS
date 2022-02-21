@@ -7,13 +7,13 @@ dependencies:
      - opencv
      - face_recognition
      - pip:
-       - streamlit
-       - cmake
-       - tensorflow==2.5.0rc1
-       - opencv-python-headless
-       - matplotlib
-       - face-recognition
-       - imageio-ffmpeg
-       - imageio
-       - pillow
-       - ffmpeg-python
+          - streamlit
+          - cmake
+          - tensorflow==2.5.0rc1
+          - opencv-python-headless
+          - matplotlib
+          - face-recognition
+          - imageio-ffmpeg
+          - imageio
+          - pillow
+          - ffmpeg-python
