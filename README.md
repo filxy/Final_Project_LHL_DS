@@ -2,12 +2,17 @@
 # Table of Contents
 
 1. [Goal](#Goal)
-2. [My second title](#my-second-title)
+2. [Tech Stack](#Tech-Stack)
+3. [Dataset](#Dataset)
 
 <a name="Goal"/>
-## **Goal:**
+## Goal:
 #### Machine learning model that detects if an image or video is manipulated or authentic.It also detects youtube url & real-time webcam images. 
-| **Tech Stack** | **Links**                                                                                        |
+
+<a name="Tech-Stack"/>
+## **Tech Stack**
+
+| **Libraries **    | **Links**                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------ |
 | TensoFlow | [![PyPI](https://img.shields.io/pypi/v/Tensorflow)](https://pypi.org/project/tensorflow/2.5.0rc1/) |
 |Face_Recognition|[![PyPI](https://img.shields.io/pypi/v/face_recognition.svg)](https://pypi.python.org/pypi/face_recognition) |
@@ -17,10 +22,11 @@
 | ffmpeg-python | [![PyPI](https://img.shields.io/pypi/v/ffmpeg-python)](https://pypi.org/project/ffmpeg-python/)  |
 | opencv-pyton  | [![PyPI](https://img.shields.io/pypi/v/opencv-python)](https://pypi.org/project/opencv-python/)  |
 
+<a name="Dataset"/>
 ## Dataset:
 #### The dataset used in this project can be found on below links. This project can be tested on a different dataset as well and will require you to provide the path of your dataset at certain places in the project. 
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 | Data-Links                                            |                                                    |    Fake_image   |  Real_image |
 | ----------------------------------------------------- | -------------------------------------------------- | --------------- | ----------- |
 | [Images](https://www.kaggle.com/yihaopuah/deep-fake-images)| `Only Train dataset was used in this project` |     3,462       |     700     |
