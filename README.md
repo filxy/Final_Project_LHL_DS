@@ -4,7 +4,7 @@
 ## Tech Stack:
 # **TensoFlow**
 [![PyPI](https://pypi.org/project/tensorflow/2.5.0rc1/)
-# **Facial_Recognition
+# **Facial_Recognition**
 [![PyPI](https://img.shields.io/pypi/v/face_recognition.svg)](https://pypi.python.org/pypi/face_recognition)
 [![Documentation Status](https://readthedocs.org/projects/face-recognition/badge/?version=latest)](http://face-recognition.readthedocs.io/en/latest/?badge=latest)
 
