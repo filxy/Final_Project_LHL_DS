@@ -1,5 +1,11 @@
 # **Deep Fake Detector**
-# **Goal:**
+# Table of Contents
+
+1. [Goal](#Goal)
+2. [My second title](#my-second-title)
+
+<a name="Goal"/>
+## **Goal:**
 #### Machine learning model that detects if an image or video is manipulated or authentic.It also detects youtube url & real-time webcam images. 
 | **Tech Stack** | **Links**                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------ |
