@@ -1,15 +1,9 @@
 # **Deep Fake Detector**
-# Table of Contents
 
-1. [Goal](#Goal)
-2. [Tech Stack](#Tech-Stack)
-3. [Dataset](#Dataset)
-
-<a name="Goal"/>
 ## Goal:
 #### Machine learning model that detects if an image or video is manipulated or authentic.It also detects youtube url & real-time webcam images. 
 
-<a name="Tech-Stack"/>
+
 ## **Tech Stack**
 
 | **Libraries **    | **Links**                                                                                  |
@@ -22,7 +16,7 @@
 | ffmpeg-python | [![PyPI](https://img.shields.io/pypi/v/ffmpeg-python)](https://pypi.org/project/ffmpeg-python/)  |
 | opencv-pyton  | [![PyPI](https://img.shields.io/pypi/v/opencv-python)](https://pypi.org/project/opencv-python/)  |
 
-<a name="Dataset"/>
+
 ## Dataset:
 #### The dataset used in this project can be found on below links. This project can be tested on a different dataset as well and will require you to provide the path of your dataset at certain places in the project. 
 
