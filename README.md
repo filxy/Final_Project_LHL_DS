@@ -1,6 +1,8 @@
-# Deep Fake Detector
+# ** Deep Fake Detector**
 ## Goal:
 ###### Machine learning model that detects if an image or video is manipulated or authentic.It also detects youtube url & real-time webcam images. 
+## Tech Stack:
+
 ## Dataset:
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 | Data-Links                                            |                                                    |
