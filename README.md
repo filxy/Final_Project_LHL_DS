@@ -31,6 +31,9 @@
 #### The folder saved_model consists of 2 pre-trained weights which you will require to download in order to run this project and declare your path for meso weights in the `Deep_Fake_Detector` notebook accordingly
 
 # Results:
+## Images Output:
+### Correct Deep Fake Output:
+![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/correct-deep%20fake.png)
 ## WebCam Output:
 ![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/web-cam-image-plot.png)
 
