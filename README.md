@@ -13,11 +13,11 @@
 
 ## Dataset:
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-| Data-Links                                            |                                                    |
-| ----------------------------------------------------- | -------------------------------------------------- |
-| [Images](https://www.kaggle.com/yihaopuah/deep-fake-images)| `Only Train dataset was used in this project` |
-| [Videos](https://www.kaggle.com/sorokin/faceforensics)| `Only DeepFakes were used in this project`         |
-| [Youtube](https://www.youtube.com/watch?v=DdZ163jzw4w)|                                                    |
+| Data-Links                                            |                                                    |    Fake_image   |  Real_image |
+| ----------------------------------------------------- | -------------------------------------------------- | --------------- | ----------- |
+| [Images](https://www.kaggle.com/yihaopuah/deep-fake-images)| `Only Train dataset was used in this project` |     3,462       |     700     |
+| [Videos](https://www.kaggle.com/sorokin/faceforensics)| `Only DeepFakes were used in this project`         |     1,000       |             |
+| [Youtube](https://www.youtube.com/watch?v=DdZ163jzw4w)|                                                    |                 |             |
 
 ## Pre-Trained Weights:
 #### The folder saved_model consists of 2 pre-trained weights which you will require to download in order to run this project and declare your path for meso weights in the `Deep_Fake_Detector` notebook accordingly
