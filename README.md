@@ -1,7 +1,7 @@
 # **Deep Fake Detector**
 # **Goal:**
 #### Machine learning model that detects if an image or video is manipulated or authentic.It also detects youtube url & real-time webcam images. 
-| **Tech Stack:** | Links                                                                                        |
+| **Tech Stack** | **Links**                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------ |
 | TensoFlow | [![PyPI](https://img.shields.io/pypi/v/Tensorflow)](https://pypi.org/project/tensorflow/2.5.0rc1/) |
 |Face_Recognition|[![PyPI](https://img.shields.io/pypi/v/face_recognition.svg)](https://pypi.python.org/pypi/face_recognition) |
