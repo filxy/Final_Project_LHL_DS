@@ -12,7 +12,7 @@
 | opencv-pyton  | [![PyPI](https://img.shields.io/pypi/v/opencv-python)](https://pypi.org/project/opencv-python/)  |
 
 ## Dataset:
-### The dataset used in this project can be found on below links. This project can be tested on a different dataset as well and will require you to provide the path of your dataset at certain places in the project. 
+#### The dataset used in this project can be found on below links. This project can be tested on a different dataset as well and will require you to provide the path of your dataset at certain places in the project. 
 
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 | Data-Links                                            |                                                    |    Fake_image   |  Real_image |
