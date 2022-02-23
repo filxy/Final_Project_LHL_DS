@@ -34,6 +34,8 @@
 ## Images Output:
 ### Correct Deep Fake Output:
 ![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/correct-deep%20fake.png)
+### Misclassified Deep Fake Output:
+![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/misclassified-deep%20fake.png
 ## WebCam Output:
 ![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/web-cam-image-plot.png)
 
