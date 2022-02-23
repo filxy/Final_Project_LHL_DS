@@ -39,4 +39,7 @@
 ## WebCam Output:
 ![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/web-cam-image-plot.png)
 ![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/web-cam-image-pred.png)
+## Youtube URL Output:
+![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/youtube%20-url%20prediction.png)
+![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/yt-prediction.png)
 
