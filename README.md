@@ -9,8 +9,8 @@
 [![Documentation Status](https://readthedocs.org/projects/face-recognition/badge/?version=latest)](http://face-recognition.readthedocs.io/en/latest/?badge=latest)
 ### imageio-ffmpeg
 [![PyPI](https://img.shields.io/pypi/v/imageio-fmpeg)](https://pypi.org/project/imageio-ffmpeg/)
-### imageio[![PyPI]
-(https://img.shields.io/pypi/v/imageio)](https://pypi.org/project/imageio/)
+### imageio
+[![PyPI](https://img.shields.io/pypi/v/imageio)](https://pypi.org/project/imageio/)
 ### pillow
 [![PyPI](https://img.shields.io/pypi/v/pillow)](https://pypi.org/project/Pillow/)
 ### ffmpeg-python
