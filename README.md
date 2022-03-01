@@ -44,7 +44,7 @@
 ![alt text](https://github.com/filxy/Final_Project_LHL_DS/blob/main/Output/yt-prediction.png)
 
 ## Project Demo:
-
+### Visit the streamlit app to try it yourself - [streamlit app](https://share.streamlit.io/filxy/deepfake-detection-app/main/app.py)
 
 https://user-images.githubusercontent.com/20019696/155808772-98d93755-c75c-437d-b5eb-1e94fc91d7f5.mov
 
